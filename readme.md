@@ -10,4 +10,8 @@ cd <ordernname> - (change directory) in den ordner wechseln
 cd .. - einen ordern zurückwechseln
 
 ```
-Hallo 
+
+
+## Javascript
+
+NodeJs - JavaScript runtime für den PC
